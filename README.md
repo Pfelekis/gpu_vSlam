@@ -1,4 +1,10 @@
 # gpu_vSlam
+My thesis GPU accelerated ORB SLAM, tested in both Desktop PC and Jetson TX2.
+Tested EuRoc dataset : https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
+
+I also tested in our own high resolution dataset if you want access mail me:	pfelekis96@gmail.com
+
+Here is an instalation guide
 First of all install update and upgrade your system:
     
         $ sudo apt update
